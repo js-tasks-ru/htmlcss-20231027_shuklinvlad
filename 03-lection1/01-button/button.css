@@ -2,9 +2,11 @@
 .btn {
     box-sizing: border-box;
 
-    width: 189px;
     padding-top: 15px;
-    padding-bottom: 14px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+
     
     background-color: var(--white);
 
